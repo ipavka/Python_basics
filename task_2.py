@@ -54,3 +54,6 @@ my_list.append(digit)
 my_list.sort(reverse=True)
 
 print(my_list)
+
+# Task 6
+# Не совсем понял, что нужно сдлеать :(
