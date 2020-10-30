@@ -1,0 +1,4 @@
+some str
+hello
+world
+for test
